@@ -1,4 +1,0 @@
-
-
-This is the branch which was created in cat branch of remote repo and will be sent to dog branch of Local repo
-
